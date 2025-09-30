@@ -28,8 +28,10 @@ You are free to write a script to run the program and build your table (then cop
 ### 1. Build a line chart
 Build a line chart using your favorite program. Your X axis will be N increasing, and your Y access will be the numbers for each type of sort. This will create something similar to the graph in the instructions, though it won't be as smooth. Due to speed differences, you may need to break up the $O(\log n)$ and $O(n^2)$ into different charts.
 
-![alt text](Quadratic.PNG)
-![alt text](Linear.PNG)
+
+[Linearithmic Sorts and Quadratic Sorts] 
+https://docs.google.com/document/d/1Exu0o53QOAP2YiRNu68jm-LMiA4QRn7boLMZMoYYzlw/edit?usp=sharing
+
 
 ### 2. Analysis
 Looking at the graph and the table, what can you say about the various sorts? Which are the fastest? Which are the slowest? Which are the most consistent? Which are the least consistent? Use this space to reflect in your own words your observations.
